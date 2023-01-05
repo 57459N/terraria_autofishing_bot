@@ -1,0 +1,7 @@
+keyboard==0.13.5
+mouse==0.7.1
+mss==7.0.1
+numpy==1.24.1
+opencv_python==4.5.5.62
+Pillow==9.4.0
+PyAutoGUI==0.9.53
